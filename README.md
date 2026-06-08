@@ -1,2 +1,2 @@
 # Project Name : Sample 
-# NAme: Nihela
+# Name: Nihela
